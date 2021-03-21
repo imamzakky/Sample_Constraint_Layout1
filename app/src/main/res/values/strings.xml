@@ -1,6 +1,12 @@
 <resources>
-    <string name="app_name">Pertemuan dua</string>
+    <string name="app_name">Sample Constrain Layout</string>
     <string name="tEmail">Email</string>
     <string name="tPassword">Password</string>
     <string name="tsignin">Sign-In</string>
+    <string name="tLogin">LOGIN</string>
+    <string name="txpassword">ini hasil Password</string>
+    <string name="tData">Data Anda</string>
+    <string name="label2">Login Berhasil</string>
+    <string name="txemail">ini hasil Email</string>
+    <string name="var1">ini pesan</string>
 </resources>
